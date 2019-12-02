@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+  padding-top: 10px;
+  font-family: sans-serif;
+}
+
+.calculated {
+  background-color: #fff5cc;
+  color: #cca300;
+  padding-left: 15px;
+}
+
+.parameter {
+  background-color: #ffe066;
+  color: #b38f00;
+}
+
+.input {
+  background-color: #e6ecff;
+  color: #0052cc;
+}
+
+.output {
+  background-color: #c0e995;
+  color: green;
+  font-weight: bold;
+  padding-left: 15px;
+}
